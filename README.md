@@ -95,7 +95,7 @@ Rather than focusing only on functionality, the project was designed with securi
 
 |               Create Password              |                Edit Password                |
 | :----------------------------------------: | :-----------------------------------------: |
-| ![](assets/screenshots/crear-password.png) | ![](assets/screenshots/editar-password.png) |
+| ![](assets/screenshots/nueva-password.png) | ![](assets/screenshots/editar-password.png) |
 
 |           Administration          |
 | :-------------------------------: |
